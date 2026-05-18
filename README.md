@@ -7,5 +7,7 @@ This project was created as a senior high school final project in 2025 to practi
 
 ## Notes
 
+ID -> Indonesia Version
+EN -> English Version
 The original code was written in Indonesian.  
 AI was used to help translate the project into English.
