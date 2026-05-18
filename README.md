@@ -1,1 +1,1 @@
-# SQL-Project-School-Report-Card-
+A simple school report card database project using SQL. This project stores student data, subjects, assessment types, grades, and daily test averages. Created as a school project for learning database design and SQL basics.
