@@ -1,5 +1,11 @@
-A simple school report card database project using SQL. This project stores student data, subjects, assessment types, grades, and daily test averages. It was created as a school project for learning database design and SQL basics.
+# Raportin
 
-This project was made as a senior high school final project in 2025.
+**Raportin** is a simple school report card database project built with SQL.  
+It stores student data, subjects, assessment types, grades, and daily test averages.
 
-The code was originally written in Indonesian, but AI was used to translate it into English.
+This project was created as a senior high school final project in 2025 to practice database design and basic SQL concepts.
+
+## Notes
+
+The original code was written in Indonesian.  
+AI was used to help translate the project into English.
